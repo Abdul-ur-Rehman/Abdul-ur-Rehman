@@ -48,7 +48,10 @@
 
 ## 📂 Featured Projects
 🔹 **[Python-Selenium-Framework](https://github.com/Abdul-ur-Rehman/Python-Selenium-Framework)** – A hands-on automation framework built using Selenium and Python for practicing test automation.  
-🔹 **[Astera](https://github.com/Abdul-ur-Rehman/Astera)** – A Python-based repository tied to my professional work experience at Astera.  
+🔹 **[Azure DevOps Bulk Components Patching](https://github.com/Abdul-ur-Rehman/Azure-DevOps-Bulk-Components-Patching)** – A Python-based utility to bulk update Azure DevOps components, enhancing efficiency in automation and CI/CD workflows.  
+
+---
+
 
 ---
 

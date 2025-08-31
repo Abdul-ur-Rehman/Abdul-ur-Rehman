@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
   <img src="https://img.shields.io/badge/API%20Testing-009688?style=for-the-badge&logo=swagger&logoColor=white"/> 
   <img src="https://img.shields.io/badge/API%20Automation-005571?style=for-the-badge&logo=fastapi&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Appium-63D7F6?style=for-the-badge&logo=appium&logoColor=white"/> 
+ <!-- <img src="https://img.shields.io/badge/Appium-63D7F6?style=for-the-badge&logo=appium&logoColor=white"/>  -->
   
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 

@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Appium** for Mobile Test Automation  
+- 🌱 Currently learning **Playwright with JS/TS**  
 - 👯 Open to collaborate on **Automation & API Testing projects**  
 - 👨‍💻 Explore all my work here 👉 [GitHub](https://github.com/Abdul-ur-Rehman)  
 - 💬 Ask me about **Selenium, Pytest, API Testing, CI/CD Pipelines, and Automation Frameworks**  

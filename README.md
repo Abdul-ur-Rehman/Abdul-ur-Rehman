@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Abdul-ur-Rehman</h1>
-<h3 align="center">💻 Software Quality Assurance Engineer | Test Automation | API Testing | Python & Selenium</h3>
+<h3 align="center">💻 Software Quality Assurance Engineer | Test Automation | Playwright | API Testing | Python & Selenium</h3>
 <p align="center">🌍 Based in Pakistan | Specializing in Test Automation, API Testing & CI/CD Integration</p>
 
 ---

@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/abdul-rehman-chattha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:abdulurrehman14790@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Abdul-ur-Rehman/Abdul-ur-Rehman/blob/main/Abdul-ur-Rehman_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-F05032?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
-<img src="https://komarev.com/ghpvc/?username=Abdul-ur-Rehman&label=Visitors&color=0e75b6&style=flat-square" alt="Visitors" />
+<img src="https://img.shields.io/github/followers/Abdul-ur-Rehman?style=flat-square&logo=github&label=Followers&color=0e75b6" alt="GitHub followers" />
 
 </div>
 
